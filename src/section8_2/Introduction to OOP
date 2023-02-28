@@ -1,0 +1,26 @@
+This section was covered by videos only...
+
+Object Oriented Programming (OOP)
+
+There are 4 major concepts of OOP
+---------------------------------
+Encapsulation -> binding and hiding certain class fields or actions from user
+
+Intheritance -> passing along the common properties/fields and actions to subclasses that shares common concepts
+
+Abstraction ->  concept of creating a true 'concept' of a class without giving the ability to create the object out of it
+
+Polymorphsim -> the concept of doing the same thing, creating the same object with the ability to do so differently
+-------------------------------------------------------------------------------------------------------------------
+
+
+Other conpets of OOP
+--------------------
+
+Association -> One to One, One to Many, Many to One, Many to Many
+
+Aggregation -> it is type of Association where object demonstrates HAS-A relationship
+
+Composition -> it is a special type of Association where objects demonstrate a strongly coupled HAS-A relationship so that if a composing object is 'destroyed', the composed object will be 'destroyed' as well. 
+
+Cohesion -> it is the idea of cohesion is to provide well-defined and connected actions or group of actions in the code.
